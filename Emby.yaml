@@ -2,3 +2,5 @@ payload:
   # 国外emby配置
   # 守候网络
   - DOMAIN-SUFFIX,cn2gias.uk
+  - DOMAIN,emby.aca.best
+  - DOMAIN,porn.aca.best
